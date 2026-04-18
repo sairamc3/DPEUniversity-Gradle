@@ -1,5 +1,7 @@
 # Introduction to Gradle for Developers
 
+# [←](../../../README.md)
+
 ## Core Concepts
 - Build Configuration
 - Plugins & tasks
@@ -52,3 +54,5 @@ flowchart RL
   - publishing
 - Comprehensive and flexible dependency management
   - Consistent and reproducible builds
+
+#  [←](../../../README.md)

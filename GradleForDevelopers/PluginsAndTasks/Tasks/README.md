@@ -1,5 +1,7 @@
 # Tasks
 
+# [←](../../../README.md)
+
 - Tasks are basic unit of work in Gradle
   - Compile
   - Test
@@ -39,3 +41,5 @@ flowchart LR
 - Dependency & ordering
   - Other tasks that need to run before
   - Tasks that need to run after
+
+# [←](../../../README.md)

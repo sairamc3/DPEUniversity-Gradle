@@ -1,5 +1,7 @@
 # Build Configuration
 
+[←](../../../README.md)
+
 Topics covered include:
 
 - Configuration Layout
@@ -65,4 +67,4 @@ dependencies {
 
 > You can use `gradle init` command to create configuration layout for a new project
 
-
+[←](../../../README.md)

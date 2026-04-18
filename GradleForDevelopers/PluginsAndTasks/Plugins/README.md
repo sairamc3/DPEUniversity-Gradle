@@ -1,5 +1,7 @@
 # Plugins
 
+# [←](../../../README.md)
+
 * Reusable common functionality
 * Plugins can be applied to Gradle configurations
 * Extend Gradle capabilities
@@ -45,3 +47,5 @@ flowchart TD
    - Need to specify version
 ### 3. Local
    - Implemented Locally
+
+# [←](../../../README.md)
