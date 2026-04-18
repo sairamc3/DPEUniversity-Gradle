@@ -18,7 +18,7 @@
   - will show dependent tasks executed
 - `-q`
   - Hide log messages, so that only the output of the tasks is shown
-- --dry-run
+- `--dry-run`
   - Show what will happen without executing
 
 ## Tasks concepts in Gradle
