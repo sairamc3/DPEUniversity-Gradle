@@ -1,5 +1,7 @@
 # Overview
 
+[🏠](../../README.md)
+
 ## Dependency types and repositories
 
 - **Dependency**: Library needed by a Gradle project
@@ -75,3 +77,5 @@ dependencies {
     - Tasks usually use resolved dependency configurations
 
 > when you run `dependency` task, it runs only on the current project and not in the sub-projects. There are many tasks similar to this.
+
+[🏠](../../README.md)
